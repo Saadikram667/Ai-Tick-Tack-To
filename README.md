@@ -56,6 +56,3 @@ python main.py
 ├── style.css     # Front-end styling (AI-assisted design)
 ├── script.js     # Web game state & JavaScript AI logic
 └── main.py       # Terminal-based Python game implementation
-├── style.css     # Front-end styling (AI-assisted design)
-├── script.js     # Web game state & JavaScript AI logic
-└── main.py       # Terminal-based Python game implementation
